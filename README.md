@@ -8,7 +8,7 @@ A lightweight yet fully-featured booking system with two distinct interfaces: a 
 ------------
 ✨ Features
 
--Customer Side
+*Customer Side
 
 No account or login required
 Step-by-step booking flow: details → service → date → time
@@ -17,7 +17,7 @@ Communication preference — telephone or email
 Booking confirmation page with unique reference number
 Fully mobile responsive
 
--Admin Side
+*Admin Side
 
 Secure login with session management
 Dashboard with at-a-glance stats: today, this week, this month, revenue
@@ -37,9 +37,9 @@ Requirements
 -PHP 7.4 or higher
 -A browser
 
-1-Start XAMPP
-2-Open XAMPP Control Panel and start Apache and MySQL.
-3- Import the database
-4-Go to http://localhost/phpmyadmin
-5-Click Import
-6-Select sql/barbershop.sql
+1.Start XAMPP
+2.Open XAMPP Control Panel and start Apache and MySQL.
+3. Import the database
+4.Go to http://localhost/phpmyadmin
+5.Click Import
+6.Select sql/barbershop.sql
